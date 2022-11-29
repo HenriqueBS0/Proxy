@@ -14,7 +14,7 @@ public class ProxyCantor implements ICantor {
             musicas = cantor.getMusicas();
         }
         else {
-            System.out.println("Musicas em chace.");
+            System.out.println("Musicas em cache.");
         }
 
         return musicas;
